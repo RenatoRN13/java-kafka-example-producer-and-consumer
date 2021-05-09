@@ -13,4 +13,4 @@ iii) rodar os comandos para subir o kafka:
   - kafka-server-start.bat <path-server.properties>
   
 Além de produzir mensagens pela classe Producer, é possível gerar mensagens pelo terminal com seguinte código:
-  - kafka-console-producer.bat --broker-list <<server-url:port>> --topic <<topic-name>>
+  - kafka-console-producer.bat --broker-list <server\-url:port> --topic <topic\-name>
